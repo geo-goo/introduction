@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @exportacc
-- 👀 I’m interested in data science and financial enginner 
-- 🌱 I’m currently learning python and c++
+- Hey , I’m @alsostrger 
+- I’m interested in data science and financial enginner 
+- I’m currently learning python and c++
+- I live Taiwan now .
 
 
 <!---
